@@ -21,5 +21,4 @@ This project uses K-Means clustering to segment customers based on their charact
 ## Dataset
 Mall Customers dataset.
 
-## Author
-Moulya
+
